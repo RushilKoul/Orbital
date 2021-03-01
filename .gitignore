@@ -4,6 +4,9 @@
 # Ignore Gradle build output directory
 build
 
+# Ignore project files
+.idea/
+
 # Ignore possibly sensitive information
 gradle.properties
 
