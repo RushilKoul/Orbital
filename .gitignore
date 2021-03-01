@@ -1,3 +1,15 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+# Ignore project files
+.idea/
+
+# Ignore possibly sensitive information
+gradle.properties
+
 # Compiled class file
 *.class
 
@@ -12,6 +24,8 @@
 
 # Package Files #
 *.jar
+# except gradle-wrapper
+!gradle-wrapper.jar
 *.war
 *.nar
 *.ear
