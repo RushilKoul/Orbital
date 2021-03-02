@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">A fast, reliable and easy to use and game engine.</h3>
 
-<p align="center">[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)</p>
+https://forthebadge.com/images/badges/made-with-java.svg
 
 <p align="center">
     <a href="https://github.com/YeffyCodeGit/Orbital/blob/main/LICENSE">License</a> •
